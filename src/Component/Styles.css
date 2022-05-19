@@ -80,11 +80,18 @@ background-color: rgb(202, 233, 233);
     } 
     .profile-icon{
         position: absolute;
-        top: 255px;
+        top: 285px;
         left: 600px;
         font-size: 2rem;
-        color: white;
-        background-color: rgb(255, 235, 53);
+        color: rgb(255, 235, 53);
+        background-color: black;
         border-radius: 50%;
+    }
+    .test-div{
+        padding: 50px;
+        
+    }
+    .test-para{
+        padding: 20px;
     }
 }
