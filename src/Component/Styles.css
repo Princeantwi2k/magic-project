@@ -2,19 +2,7 @@
 
 /* Iphone 6/7/8 plus */
 
-.main-body{
-margin: 0;
-position: fixed;
-    text-align: center;
-    background-image: url("../Component/images/IMG_9104.jpeg");
-    background-blend-mode: overlay;
-    background-color: rgb(97, 170, 130);
-    background-repeat: no-repeat;
-    
-    min-height: 100vh;
-  width: 100%;
 
-}
 
 .body{ 
     background-color: white;
@@ -79,7 +67,7 @@ background-color: rgb(202, 233, 233);
         margin: 0;
         position: fixed;
             text-align: center;
-            background-image: url("../Component/images/IMG_9099.jpeg");
+       
             background-blend-mode: overlay;
             background-color: rgb(97, 170, 130);
             background-repeat: no-repeat;
@@ -92,8 +80,8 @@ background-color: rgb(202, 233, 233);
             background-color: white;
             justify-content: center;
             align-items: center;
-            margin-right: 5%;
-            margin-left: 5%;
+            margin-right: 35%;
+            margin-left: 35%;
            margin-top: 5%;
            margin-bottom: 5%;
           
@@ -120,10 +108,10 @@ background-color: rgb(202, 233, 233);
         border-radius: 50%;
     }
     .test-div{
-        padding: 50px;
+        padding: 30px;
         
     }
     .test-para{
-        padding: 20px;
+        padding: 10px;
     }
 }
